@@ -1,0 +1,9 @@
+Building Siktircoin
+
+See doc/readme-qt.rst for instructions on building Siktircoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Siktircoin.
+
+See doc/build-*.txt for instructions on building siktircoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Siktircoin.
